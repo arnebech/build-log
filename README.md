@@ -1,3 +1,3 @@
-# print-3d-build-log
+# build-log
 
-Various 3d print things
+Various builds. Mainly CAD designs + 3d prints.
