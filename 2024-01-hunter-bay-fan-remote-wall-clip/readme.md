@@ -1,7 +1,7 @@
 # Hunter Bay Fan Remote Wall Clip
 Jan 2024
 
-The old remote wall holder/clip broke (kids!). Measured the old one an re-created a similar design and printed it.
+The old remote wall holder/clip broke (kids!). Measured the old one and re-created a similar design and printed it.
 
 
 ![IMG_1266](https://github.com/arnebech/build-log/assets/303023/6a5c169c-a4a6-4d39-ab91-8336337f48b2)
